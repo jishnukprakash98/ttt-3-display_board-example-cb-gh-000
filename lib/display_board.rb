@@ -3,5 +3,7 @@ def display_board
   puts "Welcome to Tic Tac Toe"
   st1 = "   |   |   "
   st2 = "-----------"
-  puts st1,st2,st1
+  puts st1
+  puts st2
+  puts st1
 end
